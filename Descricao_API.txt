@@ -1,0 +1,9 @@
+# API()
+# 1. Objetivo - criar uma API que disponibiliza a consulta, criação, edição e exclusão
+# 2. URL Base - LocalHost
+# 3. EndPoints
+#   - localhost/Books (GET)
+#   - localhost/Book/book_id (GET)
+#   - localhost/Book/Insert?name=&value=&buy_date= (POST)
+#   - localhost/Book?book_id=&name=&value=&buy_date= (PUT)
+#   - localhost/livro/id (DELETE)
